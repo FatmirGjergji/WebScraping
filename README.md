@@ -1,5 +1,5 @@
 # Comprehensive Web Scraping with BeautifulSoup & Selenium
-In this projec, I used BeautifulSoup and Selenium to scrape data from multiple websites, including 
+In this project, I used BeautifulSoup and Selenium to scrape data from multiple websites, including 
 <ul>
   <li>Books to scrape</li>
   <li> Zillow </li>
